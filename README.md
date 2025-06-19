@@ -1,1 +1,1 @@
-# sannas-droid.github.io
+Published projects and resources
